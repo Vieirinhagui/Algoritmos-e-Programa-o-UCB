@@ -1,3 +1,9 @@
+// Guilherme Vieira Oliveira,
+// Questão 2
+// Data: 20/03/2023.
+// Um programa que calcule a área do triângulo
+
+
 #include <stdio.h>
 #include <stdlib.h>
 

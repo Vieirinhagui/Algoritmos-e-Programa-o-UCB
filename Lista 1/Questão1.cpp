@@ -1,6 +1,12 @@
+// Guilherme Vieira Oliveira,
+// Questão 1
+// Data: 20/03/2023.
+// Programa que calcule a média de 5 notas de um aluno
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
-
 int main(){
     float nota1,nota2,nota3,nota4,nota5,media;
     printf("Qual a nota do primeiro aluno?");
